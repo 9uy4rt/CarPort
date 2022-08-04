@@ -153,7 +153,7 @@ public class Exer {
 			if (num==9) {
 				run = false;				
 			}
-			if(num>9) {
+			if(num==0) {
 				System.out.println("잘못된 값 입력");
 			}			
 		}catch(InputMismatchException e){
