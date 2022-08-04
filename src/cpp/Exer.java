@@ -161,6 +161,6 @@ public class Exer {
 		}
 	}
 		long time2=System.currentTimeMillis();
-		System.out.println("운행시간:"+(time1+time2)/1000%60+"초"+"\n안녕히계세요.");
+		System.out.println("운행시간: "+(time1+time2)/1000%60+"초"+"\n안녕히계세요.");
 	}
 }
