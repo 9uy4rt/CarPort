@@ -1,6 +1,6 @@
 package cpp;
 public class Menu implements Car{
-	public String s = "중립";
+	public String s="중립";
 	public String sp="0km";
 	public String t="순정 타이어";
 	public String w="운전석 창문닫음";
@@ -91,6 +91,5 @@ public class Menu implements Car{
 		// TODO Auto-generated method stub
 		s="중립";
 		sp="0km";
-	}
-	
+	}	
 }
