@@ -18,7 +18,7 @@ public class Exer {
 			Scanner scanner=new Scanner(System.in);
 			int num=scanner.nextInt();		
 			if(num==1) {
-				System.out.println("기어를 입력하세요.\n1. 1단 2. 2단 3. 3단 4. 4단 5. 5단 6. 6단 R. R");
+				System.out.println("기어를 입력하세요.\n1. 1단 2. 2단 3. 3단 4. 4단 5. 5단 6. 6단 7. R");
 				String r=scanner.next();
 				if(r.equals("1")) {
 					System.out.println("1단");
